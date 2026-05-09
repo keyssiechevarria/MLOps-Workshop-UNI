@@ -1,34 +1,53 @@
 # ==============================================================
+
 # Dependencias de desarrollo - Taller MLOps UNI
+
 # ==============================================================
+
 # Instalar con: pip install -r requirements.txt
+
 # ==============================================================
 
 # Ciencia de datos
-pandas==2.2.3
-numpy==1.26.4
-scikit-learn==1.6.1
-matplotlib==3.9.4
-seaborn==0.13.2
+
+pandas
+
+numpy
+
+scikit-learn
+
+matplotlib
+
+seaborn
 
 # Serialización de modelos
-cloudpickle==3.1.2
-joblib==1.4.2
+
+cloudpickle
+
+joblib
 
 # Versionamiento de datos
-dvc==3.67.0
+
+dvc
 
 # Experiment tracking
-mlflow==3.10.1
+
+mlflow
 
 # Notebooks
-jupyter==1.1.1
-notebook==7.3.3
+
+jupyter
+
+notebook
 
 # API de despliegue
-fastapi==0.115.12
-uvicorn==0.34.0
+
+fastapi
+
+uvicorn
 
 # Utilidades
-pyyaml==6.0.2
-python-dotenv==1.0.1
+
+pyyaml
+
+python-dotenv
