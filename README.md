@@ -119,7 +119,7 @@ make docker     # Construir imagen Docker
 
 ## Docente
 
-**Nicolás Ismael Alayo Arias** — n_alayo_arias@outlook.com
+**Keyssi Echevarria** — n_alayo_arias@outlook.com
 
 ---
 
